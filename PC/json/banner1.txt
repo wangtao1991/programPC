@@ -1,0 +1,10 @@
+[{"img":"img/banner1_1.jpg"},
+{"img":"img/banner1_2.webp"},
+{"img":"img/banner1_3.webp"},
+{"img":"img/banner1_4.webp"},
+{"img":"img/banner1_5.webp"},
+{"img":"img/banner1_6.webp"},
+{"img":"img/banner1_7.webp"},
+{"img":"img/banner1_8.webp"},
+{"img":"img/banner1_9.webp"}
+]
